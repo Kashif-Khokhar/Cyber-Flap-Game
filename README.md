@@ -1,4 +1,5 @@
-al-time score persistence, all wrapped in a sleek "Cyber" aesthetic.
+🚀 Cyber-Flap: Physics-Based Arcade Engine
+Cyber-Flap is a high-performance, physics-driven arcade game built for the "VIP Arcade" suite. This project showcases advanced implementation of gravity simulations, collision detection, and real-time score persistence, all wrapped in a sleek "Cyber" aesthetic.
 
 🚀 Live Demo
 Initiate the engine here: https://kashif-khokhar.github.io/Cyber-Flap-Game/
